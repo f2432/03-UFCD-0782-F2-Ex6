@@ -1,8 +1,8 @@
 a.out:
-	gcc NumaCaixa.c
+	gcc LetraO.c
 
 clean:
-	rm NumaCaixa
+	rm LetraO
 
 test: a.out
 	bash test.sh
