@@ -1,17 +1,20 @@
-# 03 - UFCD-0782 - F2 - Ex5
+# 03 - UFCD-0782 - F2 - Ex6
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa em C (NumaCaixa.c) para imprimir no terminal o texto  
-`##############`  
-`# Ola Mundo! #`  
-`##############`  
+Escreva um programa em C (LetraO.c) para imprimir no terminal a letra O através do
+símbolo #, tal como mostra a saída esperada.  
+` ###`  
+`#   #`  
+`#   #`  
+` ###`  
 
 ### Saída Esperada:
    
-`##############`  
-`# Ola Mundo! #`  
-`##############`  
+` ###`  
+`#   #`  
+`#   #`  
+` ###`   
 
 
 ### Notas
